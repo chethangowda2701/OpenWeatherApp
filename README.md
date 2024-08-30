@@ -1,2 +1,2 @@
-# OpenWeatherApp
+# WeatherApp
 Weather Application
